@@ -1,0 +1,9 @@
+.btn-pepe {
+background-color: black;
+color: white;
+transition: background-color .5s;
+}
+
+.btn-pepe:hover {
+background-color: #707B7C;
+}
